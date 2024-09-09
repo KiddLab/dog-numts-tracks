@@ -1,0 +1,5 @@
+hub KiddLabNUMTS
+shortLabel Track Data Hub for Kidd Lab Dog NUMTS 
+longLabel University of Michigan Medical School, Human Genetics, Kidd Lab Dog Numts
+genomesFile dog-numts-tracks.genome.txt
+email jmkidd@umich.edu
